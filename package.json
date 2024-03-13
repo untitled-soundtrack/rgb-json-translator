@@ -1,0 +1,24 @@
+{
+  "name": "rbg-json-translator",
+  "version": "0.1.0",
+  "description": "a node.js CLI that exports biographical data from MediaWiki as simple JSON files for RegioBioGraph",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "rbg-json-translate": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.nwt.fhstp.ac.at/alexander.rind/rbg-json-translator.git"
+  },
+  "author": "Alexander Rind (https://github.com/alex-rind/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "yargs": "^17.1.1"
+  }
+}
