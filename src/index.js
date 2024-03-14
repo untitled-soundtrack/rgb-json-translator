@@ -17,7 +17,12 @@ const argv = yargs(hideBin(process.argv)).option("url", {
   //     description: "Run with verbose logging",
 }).argv;
 
+// const button = document.getElementById("exportButton");
+
+// button.addEventListener("click", doAllPersons);
+
 console.log("Starting ...");
+console.log(argv.url);
 
 if (argv.url) {
   doPerson(argv.url);
@@ -25,3 +30,5 @@ if (argv.url) {
   doAllPersons();
   doAllNarratives();
 }
+
+
