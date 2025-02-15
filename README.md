@@ -4,7 +4,7 @@ A node.js CLI that exports biographical data from MediaWiki as simple JSON files
 
 ## Author
 - [Alexander Rind](https://github.com/alex-rind)
-- Florian Bauer (**Adaptation of the source code and export as a `.pkg`, making the script an executable file.**)
+- Florian Bauer (Adaptation of the source code and export as a `.pkg`, making the script an executable file.)
 
 ## Guide
 
@@ -13,7 +13,7 @@ A node.js CLI that exports biographical data from MediaWiki as simple JSON files
 3. Export a selected one `node . -u https://regiobiograph.media.fhstp.ac.at/wiki/Moskowitz_Else`
 4. The path for the export is `\output5\`
 
-# Guide für die pkg (Windows/macOS)
+# Export Guide auf Deutsch (Windows/macOS)
 
 Öffne `rbg-json-translator_multiplatform.zip` und entpacke den jeweiligen Ordner, abhängig vom verwendeten Betriebssystem:
 
