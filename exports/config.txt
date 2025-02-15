@@ -1,0 +1,136 @@
+################## Default Settings #################
+# Multiply all setting values by this number
+# --timeScaleMultiplier = 1
+# Minimum duration events remain visible in seconds
+# --mainTimeEventsInSeconds = 5
+# Duration photos remain visible in seconds
+# --photoTimeInSeconds = 5
+# Duration the outro remains visible
+# --creditTimeInSeconds = 5
+# Time extended for each letter by the following value.
+# --charTimeScaleMultiplier = 0,1
+# Video Playback Speed (1-10)
+# videoSpeedMultiplier = 10
+#######################################################
+# ATTENTION: "," is used instead of "." for decimal numbers.
+# "No line breaks to be added or removed"
+#
+#
+#
+! Settings
+timeScaleMultiplier = 1
+mainTimeEventsInSeconds = 5
+photoTimeInSeconds = 10
+creditTimeInSeconds = 5
+charTimescaleMultiplier = ,066
+videoSpeedMultiplier = 1
+
+# Liste 1 -> Highlighted Persons
+Moranz_Josef
+Rosenblum_Ilse
+Moranz_Hedwig
+Moskowitz_Else
+Katz_Karl
+Moranz_Karl
+Walter_Paul
+Katz_Erich
+Rosenbaum_Berta
+Rosenbaum_Ferdinand
+Scheier_Elise
+Weiss_Josef
+Kessler_Jenny
+Mandler_Jakob
+Schreier_Paul
+Walter_Elfriede (Frieda)
+Katz_Elsa
+Kessler_Albert
+Mandler_Franziska (Frances)
+Moranz_Hermann
+Steiner_Wilhelmine (Wilma Vilma)
+Weig(e)l_Walter
+Weigel_Lisbeth
+Auerbach_Emil (Samuel)
+Kessler_Otto
+Mandler_Julius
+Neumann_Siegfried
+Schreier_Berta
+Weigl_Wilhelm
+Weiss_Siegmund Salomon
+Auerbach_Berthold
+Baumann_Anna
+Blau_Isidor
+Blau_Valerie
+Gampel_Julie
+Hahn_(Quittner) Rosa
+Kessler_Adolf
+Kessler_Katharina
+Kessler_Leopold
+Kessler_Samuel
+Klein_Katharina
+Lehner_Gertrude
+Leisser_Wilhelm Alois
+Mandl_Josef
+Mandl_Rudolf
+Mandler_Katharina (Käthe)
+Mandler_Siegfried
+Neumann_Franziska
+Neumann_Moritz
+Neumann_Therese
+Quentin_Frank
+Schreier_Nancy Olivia
+Sporn_Anna
+Sternschuss_Dr. Max
+Walter_Anna
+Walter_Hermann
+Walter_Susanne
+Weiss_Adolf
+Weiss_Ernst
+Weiss_Gertrude
+Weiss_Gisela
+Weiss_Hermine
+Weiss_Rudolf
+Banaschek_Grete
+Baumann_Erich Wolfgang
+Katz_Ruzena
+Kessler_Juliana
+Kessler_Malvine
+Kessler_Mathias
+Klein_Ernst
+Kupferschmid_Sonja
+Mandl_David
+Mandl_Ferdinand
+Mandl_Regine
+Mandl_Rosa (Rosina)
+Mandler_Abraham
+Mandler_Hedwig
+Mandler_Helene
+Mandler_Ida
+Mandler_Jakob (*1831)
+Mandler_Marie
+Mandler_Moritz (Moriz)
+Mandler_Rosalia
+Moranz_Regine
+Reichsfeld_Heinrich Joachim
+Reichsfeld_Theresia
+Rosenbaum_Helene
+Rosenbaum_Katharina
+Rosenbaum_Manfred
+Rosenbaum_Markus
+Rosenbaum_Moses Moritz
+Rosenbaum_Rosa
+Rosenbaum_Rosalia (*1848)
+Rosenbaum_Salamon
+Stewart_Karl
+Weigl_Emma
+Weigl_Josef
+Wolf_Leni
+
+# Liste 2 -> Hide Persons
+Vorname_Nachname
+
+# Liste 3 -> Narrativ
+Vorname11 Nachname11
+Vorname12 Nachname12
+Vorname13 Nachname13
+Vorname14 Nachname14
+Vorname15 Nachname15
