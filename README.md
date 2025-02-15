@@ -15,7 +15,7 @@ A node.js CLI that exports biographical data from MediaWiki as simple JSON files
 
 # Export Guide auf Deutsch (Windows/macOS)
 
-Öffne `rbg-json-translator_multiplatform.zip` und entpacke den jeweiligen Ordner, abhängig vom verwendeten Betriebssystem:
+Verwende im Ordner `exports` den jeweiligen Ordner, abhängig vom verwendeten Betriebssystem:
 
 ```txt
 📂 macos-x64: Das Export-Tool für macOS
